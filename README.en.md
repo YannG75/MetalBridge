@@ -10,6 +10,10 @@ It can also install **Steam (Windows version)** alongside, for games that need i
 > It works on the machine it was made on (MacBook M1 Max, macOS 27.0.1, Heroic 2.22.3) with two tested games.
 > On other Macs or other games, **nothing is guaranteed**. Your existing games are safe: the install *adds* an engine and does not touch the others.
 
+> ### ⬇️ [Download the latest version ("Releases" page)](https://github.com/YannG75/MetalBridge/releases)
+> On that page, scroll down to **Assets** and download **`MetalBridge-Installer-….zip`**. That is the file you need (not "Source code").
+> *Can't find "Releases"? On the repository's home page, it is in the right-hand column, under "About".*
+
 ## What you get
 
 - A new engine choice in Heroic: **MetalBridge-Wine11.12-GPTK4b2** (next to the ones you already have).
@@ -48,8 +52,8 @@ Tick each line:
 
 ## Installation
 
-1. **Download the folder**: on the project's GitHub page, open the **Releases** tab and download **`MetalBridge-Installer-….zip`**
-   (or, failing that, green button **Code → Download ZIP**), then double-click it to unzip (for example in *Documents*).
+1. **Download the folder**: go to the ["Releases" page](https://github.com/YannG75/MetalBridge/releases) and download **`MetalBridge-Installer-….zip`** (under *Assets*),
+   then double-click it to unzip (for example in *Documents*). *(Failing that: green button **Code → Download ZIP**.)*
 
 ### Easy way (no Terminal) — recommended
 2. In the unzipped folder, **double-click "Install MetalBridge.command"**.

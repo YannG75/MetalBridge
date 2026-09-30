@@ -8,6 +8,10 @@ des jeux Windows sur un Mac Apple Silicon (M1, M2, M3, M4…), en utilisant la t
 > Ça fonctionne sur la machine où il a été fait (MacBook M1 Max, macOS 27.0.1, Heroic 2.22.3) et avec deux jeux testés.
 > Sur d'autres Mac ou d'autres jeux, **rien n'est garanti**. Tu ne risques pas de casser tes jeux existants : l'installation *ajoute* un moteur sans toucher aux autres.
 
+> ### ⬇️ [Télécharger la dernière version (page « Releases »)](https://github.com/YannG75/MetalBridge/releases)
+> Sur cette page, descends jusqu'à **Assets** et télécharge le fichier **`MetalBridge-Installer-….zip`**. C'est lui qu'il te faut (pas « Source code »).
+> *Tu ne vois pas « Releases » ? Sur la page d'accueil du dépôt, c'est la colonne de droite, sous « About ».*
+
 ## Ce que tu obtiens
 
 - Un nouveau choix de moteur dans Heroic : **MetalBridge-Wine11.12-GPTK4b2** (à côté de ceux que tu as déjà).
@@ -48,8 +52,8 @@ Coche chaque ligne :
 
 *English version: [README.en.md](README.en.md).*
 
-1. **Télécharge le dossier** : sur la page GitHub du projet, onglet **Releases** → télécharge le fichier **`MetalBridge-Installer-….zip`**
-   (ou, à défaut, bouton vert **Code → Download ZIP**), puis double-clique dessus pour le décompresser (par exemple dans *Documents*).
+1. **Télécharge le dossier** : va sur la [page « Releases »](https://github.com/YannG75/MetalBridge/releases) et télécharge le fichier **`MetalBridge-Installer-….zip`** (dans *Assets*),
+   puis double-clique dessus pour le décompresser (par exemple dans *Documents*). *(À défaut : bouton vert **Code → Download ZIP**.)*
 
 ### Méthode simple (sans Terminal) — recommandée
 2. Dans le dossier décompressé, **double-clique sur « Install MetalBridge.command »**.
