@@ -1,0 +1,11 @@
+.DS_Store
+Game-Porting-Toolkit-latest/
+backups/
+logs/
+.venv/
+vendor/
+build/
+prefixes/
+downloads/
+dist/
+NOTES.md
